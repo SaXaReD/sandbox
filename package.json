@@ -1,0 +1,16 @@
+{
+  "name": "sandbox",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "Beta jest package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "coverage": "npx jest --coverage"
+  },
+  "author": "SaXaReD",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
